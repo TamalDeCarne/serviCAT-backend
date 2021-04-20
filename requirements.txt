@@ -1,0 +1,14 @@
+Werkzeug==0.16.1
+flask
+SQLAlchemy
+marshmallow
+flask-sqlalchemy 
+marshmallow-sqlalchemy
+bcrypt
+flask-bcrypt
+simplejson
+flask-marshmallow
+zappa
+mysqlclient
+pymysql
+flask-cors
